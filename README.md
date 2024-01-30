@@ -3,7 +3,7 @@
 
 #Seja bem vindo ao meu repositorio ! 
 
-- 🌱 Sou estudante de teste de software e serei futura Qa   
+- 🌱 Sou estudante de teste de software  Qualidade   
 - 
 - 📫 email: julianaoliveiramos1993@gmail.com
  
